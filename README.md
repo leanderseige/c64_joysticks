@@ -6,6 +6,8 @@ In order to enjoy my brand new C64 Ultimate I decided to build a pair of two mec
 
 <img src="c64_joysticks_inside.jpg" width="600" />
 
+I decided to print the cases myself and equip the joysticks with readily available joystick modules, arcade buttons and cables. See the links down below. However, despite these products came in quite good quality they are no-name components which may change in quality, color and function. So please take care and double-check how to connect everyting.
+
 <img src="C64JoystickPin1.png" width="400" />
 
 
