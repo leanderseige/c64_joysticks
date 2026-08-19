@@ -8,7 +8,7 @@ In order to enjoy my brand new C64 Ultimate I decided to build a pair of two mec
 
 I decided to print the cases myself and equip the joysticks with readily available joystick modules, arcade buttons and cables. See the links down below. However, despite these products came in quite good quality they are no-name components which may change in quality, color and function. So please take care and double-check how to connect everyting.
 
-<img src="c64_joysticks_schematic.png" width="600" />
+<img src="c64_joystick_schematic.png" width="600" />
 
 This is the pinout of the C64´s joystick port. However, I had to swap up/down at the joystick module in order to make them work as expected. Everything is a matter of perspective you know.
 
