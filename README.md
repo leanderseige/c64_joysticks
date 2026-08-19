@@ -14,6 +14,7 @@ This is the pinout of the C64´s joystick port. However, I had to swap up/down a
 
 <img src="C64JoystickPin1.png" width="400" />
 
+I also struggle with mirroring considerations of those connector schematics -- is it the jack or plug? Seen from which side? So once and for all, this is the unambiguous depiction of where Pin 1 is. You're welcome.
 
 ## Links
 
