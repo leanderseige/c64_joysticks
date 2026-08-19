@@ -1,6 +1,6 @@
 # C64 Joysticks
 
-In order to enjoy my brandnew C64 Ultimate I decided to build a pair of two mechanical joysticks.
+In order to enjoy my brand new C64 Ultimate I decided to build a pair of two mechanical joysticks.
 
 <img src="c64_joysticks_outside.jpg" width="600" />
 
