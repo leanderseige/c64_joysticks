@@ -2,6 +2,10 @@
 
 In order to enjoy my brandnew C64 Ultimate I decided to build a pair of two mechanical joysticks.
 
+<img src="c64_joysticks_outside.jpg" width="600" />
+
+<img src="c64_joysticks_inside.jpg" width="600" />
+
 <img src="C64JoystickPin1.png" width="400" />
 
 
